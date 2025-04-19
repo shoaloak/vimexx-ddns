@@ -84,4 +84,4 @@ Add this line to run the script every hour:
 
 ## License
 
-MIT License
+GPL License
