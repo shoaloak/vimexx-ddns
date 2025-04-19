@@ -31,7 +31,8 @@ class WhmcsSDK:
     VALID_WHMCS_VERSIONS = [
         '6.0.1-release.1',
         '7.5.2-release.1',
-        '7.6.1-release.1'
+        '7.6.1-release.1',
+        '8.6.1-release.1'
     ]
 
     ENVIRONMENTS = {
