@@ -38,7 +38,7 @@ ENABLE_IPV6 = True  # Toggle IPv6 support
    vi config/credentials.json
    ```
    
-   Add your WHMC credentials:
+   Add your [WHMC credentials](https://my.vimexx.eu/api):
    ```json
    {
      "client_id": "your_client_id",
