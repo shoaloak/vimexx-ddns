@@ -23,7 +23,7 @@ ENABLE_IPV6 = True  # Toggle IPv6 support
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/vimexx-ddns /opt/vimexx-ddns
+   git clone https://github.com/shoaloak/vimexx-ddns /opt/vimexx-ddns
    cd /opt/vimexx-ddns
    ```
 
